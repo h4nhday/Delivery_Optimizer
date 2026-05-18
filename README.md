@@ -23,7 +23,7 @@ A web-based delivery route optimization system using Genetic Algorithm.
 ## Algorithms
 
 - Genetic Algorithm
-- 
+  
 ## Installation
 
 ### Backend
